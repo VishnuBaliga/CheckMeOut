@@ -1,0 +1,28 @@
+{
+  "name": "check-me-out",
+  "version": "1.0.0",
+  "description": "pure css checkboxes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VishnuBaliga/CheckMeOut.git"
+  },
+  "keywords": [
+    "css",
+    "checkbox",
+    "checkboxes",
+    "radio-button",
+    "radio",
+    "html",
+    "css3"
+  ],
+  "author": "Vishnu Baliga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VishnuBaliga/CheckMeOut/issues"
+  },
+  "homepage": "https://github.com/VishnuBaliga/CheckMeOut#readme"
+}
